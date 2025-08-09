@@ -153,5 +153,3 @@ Once you’ve cleared all levels:
 * Take **mock interviews** to practice under time pressure
 
 ---
-
-If you want, I can make a **colorful “DSA roadmap chart”** like a game progress map, showing exactly how you move from basics → intermediate → advanced in both Java & Python. That way you can print it and follow like a checklist.
