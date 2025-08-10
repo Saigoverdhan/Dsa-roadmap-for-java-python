@@ -6,7 +6,7 @@ We’ll start from **zero knowledge** and climb all the way up to **interview-re
 
 ---
 
-## **🎯 3-Stage DSA Roadmap (Java + Python)**
+## **🎯 3-Stage DSA Roadmap (Java or Python)**
 
 Think of it like a **video game** — we go from Level 1 → Level 3.
 At each step, you’ll **learn the concept**, **see how it works in both languages**, then **solve a few problems**.
