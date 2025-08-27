@@ -65,7 +65,7 @@ At each step, you’ll **learn the concept**, **see how it works in both languag
    * Python: `arr = [1, 2, 3]`
   
      master arrays like a pro in interview's may be 5 lpa or 50 lpa  job role arrays are the most asked topics
-     *playlist to master arrays: https://youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&si=yjGjJxZHHGQOLfA4
+     <br>*playlist to master arrays: https://youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&si=yjGjJxZHHGQOLfA4
 
 2. **Strings**
 
