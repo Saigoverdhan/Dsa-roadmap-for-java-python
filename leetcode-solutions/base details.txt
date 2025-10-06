@@ -1,0 +1,22 @@
+# Daily Java Solutions
+
+- Ready-to-paste Java solutions for LeetCode problems.
+- File naming: `DailyJavaSolutions_<problem_number>.java`
+- Reminder: Practice daily, consistency matters more than copying.
+
+---
+
+## Motivation from *Atomic Habits*
+
+> "You do not rise to the level of your goals. You fall to the level of your systems."  
+> – James Clear, *Atomic Habits*
+
+Small daily improvements compound over time. Just a 0.1% improvement each day, done consistently, grows into massive results in a year. 💡
+
+---
+
+## Usage
+
+1. Copy the Java file you need.
+2. Paste it on LeetCode.
+3. Understand the solution, don’t just copy—learning comes with practice.
